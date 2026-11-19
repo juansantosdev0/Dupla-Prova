@@ -1,6 +1,12 @@
 import os
 os.system("cls")
 
+#atividade feita pelos alunos: Juan santos, Emerson Davi.
+
+
+
+
+
 def mostrar_saldo(saldo):
     print(f'Saldo atual: R$ {saldo}')
     
